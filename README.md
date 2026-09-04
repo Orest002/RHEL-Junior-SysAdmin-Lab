@@ -1,3 +1,5 @@
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=170&section=header&text=RHEL%20Junior%20Lab&fontColor=00FF41&fontSize=38&animation=fadeIn" width="100%"/></div>
+
 <div align="center">
 
 # 🏢 RHEL Junior SysAdmin Lab
